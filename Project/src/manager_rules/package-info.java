@@ -1,1 +1,1 @@
-package manager_rules;
+ackage manager_rules;
